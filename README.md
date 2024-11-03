@@ -20,13 +20,12 @@
 * Streamlit 🚀
 
 ## My Role 🧑‍💻
-As the team leader, I oversaw the entire project and actively contributed to the following tasks:
-
-Project Management: Defined project scope, set deadlines, and ensured smooth collaboration among team members. 📅
-Data Preprocessing: Led the data cleaning and preparation process to ensure data quality and consistency. 🧹
-Data Visualization: Guided the creation of insightful charts and visualizations to aid in data understanding and decision-making. 📊
-KNN Model Building: Provided technical guidance and support in implementing and training the KNN model. 🧩
-Autoencoder Model Building: Supervised the design, training, and utilization of the Autoencoder model for feature extraction. 🧬
+**Our team have 6 people. As the team leader, I oversaw the entire project and actively contributed to the following tasks:**
+* Project Management: Defined project scope, set deadlines, and ensured smooth collaboration among team members. 📅
+* Data Preprocessing: Led the data cleaning and preparation process to ensure data quality and consistency. 🧹
+* Data Visualization: Guided the creation of insightful charts and visualizations to aid in data understanding and decision-making. 📊
+* KNN Model Building: Provided technical guidance and support in implementing and training the KNN model. 🧩
+* Autoencoder Model Building: Supervised the design, training, and utilization of the Autoencoder model for feature extraction. 🧬
 
 ## Demo 🎬
 
