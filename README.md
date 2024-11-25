@@ -27,7 +27,7 @@
 * KNN Model Building: Provided technical guidance and support in implementing and training the KNN model. 🧩
 * Autoencoder Model Building: Supervised the design, training, and utilization of the Autoencoder model for feature extraction. 🧬
 
-## Demo 🎬
+## Demo (click to image below)🎬
 
 [![Video](https://github.com/quang2719/Book-Recommend-System---SIC-Capston-Project/blob/main/Video%20demo/Thumbnail.png.png)](https://github.com/quang2719/Book-Recommend-System---SIC-Capston-Project/blob/main/Video%20demo/RecSys_Web_demo.mp4)
 
